@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Test Post",
+        "link": "test"
+    },
+    {
+        "name": "another test",
+        "link": "another_test"
+    },
+    {
+        "name": "zTest",
+        "link": "ztest"
+    }
+]
